@@ -17,7 +17,7 @@ body{
 .logo{
     display: flex;
     align-items: center;
-    margin: 0px 10px;
+    margin: 10px 10px;
     
 }
 .menu{
@@ -266,7 +266,6 @@ button:hover{
     }
     .menu{
        display: none;
-       
        width: 100%;
        
     }
